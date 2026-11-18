@@ -1,0 +1,131 @@
+DEVINE LE MOT - SÉRIE 1
+
+Source de référence pour ChatGPT. Quand le joueur demande une partie à l’oral, suis les règles et utilise les fiches ci-dessous.
+
+RÈGLES DE LA PARTIE
+
+1. Anime la partie en français, entièrement à l’oral. Vérifie que tu as accès aux dix fiches complètes et utilise uniquement cette série. Si tu ne peux pas lire la page ou que des données manquent, préviens le joueur avant de commencer. N’invente aucune énigme.
+
+2. Commence par la fiche 01 et suis l’ordre des fiches. Pour chaque énigme, lis sa définition, annonce son nombre de lettres, puis lis uniquement les lettres prévues au départ avec leurs positions. Attends la réponse du joueur. Ne lis pas la solution, les autres indices ni le reste de la page à voix haute.
+
+3. Conserve la même fiche jusqu’à ce que le joueur trouve le mot, dise « je passe » ou demande la solution. Ne change jamais le mot pour le faire correspondre à une réponse.
+
+4. À la demande « un indice », donne la prochaine lettre de la liste des indices, avec sa position, puis attends. Quand toutes les lettres de la liste ont été données, propose l’indice supplémentaire. Si tout a déjà été donné, dis-le simplement.
+
+5. À la demande « répète », relis la définition, la longueur et seulement les lettres déjà révélées. À la demande « quelles lettres », récapitule uniquement les lettres déjà révélées.
+
+6. Reprends exactement le nombre de lettres et les positions inscrits sur la fiche. Les positions commencent à 1. Les indices utilisent les lettres sans accents et un caractère accentué compte pour une seule lettre.
+
+7. Compare la réponse au mot enregistré. Accepte une réponse orale correcte sans exiger de l’épeler. Ignore la casse et les accents dans sa transcription. Si la reconnaissance vocale est ambiguë ou si un synonyme paraît plausible, demande une précision et rappelle les contraintes sans changer la solution.
+
+8. Si la réponse est incorrecte, dis-le simplement puis attends. Ne révèle pas de lettre supplémentaire sans demande. Si la réponse est correcte, confirme et prononce le mot. Si le joueur dit « je passe » ou demande la solution, prononce le mot.
+
+9. Quand une énigme est terminée, demande si le joueur souhaite continuer s’il reste des fiches. Si toutes les fiches ont été jouées ou si le joueur dit « stop », annonce la fin de la partie.
+
+10. Laisse le temps de réfléchir et n’utilise aucun chronomètre. Garde en mémoire l’énigme en cours et les indices déjà donnés. Ne répète pas une énigme déjà terminée.
+
+FICHES RÉSERVÉES À L’ANIMATEUR
+
+ÉNIGME 01
+Niveau : Facile
+Définition : Instrument dont l’aiguille aimantée indique le nord et permet de s’orienter.
+Nombre de lettres : 8
+Solution réservée à l’animateur : BOUSSOLE
+Lettres à annoncer au départ : Aucune.
+Indice sur demande 1 : Lettre B en position 1.
+Indice sur demande 2 : Lettre S en position 4.
+Indice sur demande 3 : Lettre E en position 8.
+Indice supplémentaire : On l’emporte pour trouver son chemin en randonnée.
+
+ÉNIGME 02
+Niveau : Facile
+Définition : Objet que l’on déploie au-dessus de sa tête pour se protéger de la pluie.
+Nombre de lettres : 9
+Solution réservée à l’animateur : PARAPLUIE
+Lettres à annoncer au départ : Lettre P en position 1.
+Indice sur demande 1 : Lettre P en position 5.
+Indice sur demande 2 : Lettre E en position 9.
+Indice supplémentaire : Il possède un manche et une toile tendue sur des baleines.
+
+ÉNIGME 03
+Niveau : Facile
+Définition : Édifice naturel par lequel de la lave, des gaz et parfois des cendres sortent de la Terre.
+Nombre de lettres : 6
+Solution réservée à l’animateur : VOLCAN
+Lettres à annoncer au départ : Aucune.
+Indice sur demande 1 : Lettre V en position 1.
+Indice sur demande 2 : Lettre L en position 3.
+Indice sur demande 3 : Lettre N en position 6.
+Indice supplémentaire : Le Vésuve et l’Etna en sont des exemples.
+
+ÉNIGME 04
+Niveau : Facile
+Définition : Petit mammifère au dos couvert de piquants, qui se roule en boule pour se défendre.
+Nombre de lettres : 8
+Solution réservée à l’animateur : HÉRISSON
+Lettres à annoncer au départ : Aucune.
+Indice sur demande 1 : Lettre H en position 1.
+Indice sur demande 2 : Lettre I en position 4.
+Indice sur demande 3 : Lettre N en position 8.
+Indice supplémentaire : Il peut visiter les jardins à la tombée de la nuit.
+
+ÉNIGME 05
+Niveau : Facile
+Définition : Lourde pièce de métal reliée à un bateau, que l’on laisse descendre au fond de l’eau pour le maintenir en place.
+Nombre de lettres : 5
+Solution réservée à l’animateur : ANCRE
+Lettres à annoncer au départ : Lettre A en position 1, Lettre C en position 3.
+Indice sur demande 1 : Lettre E en position 5.
+Indice supplémentaire : Avant de repartir, un bateau peut la lever.
+
+ÉNIGME 06
+Niveau : Intermédiaire
+Définition : Instrument qui mesure une durée grâce à du sable s’écoulant entre deux récipients de verre superposés.
+Nombre de lettres : 7
+Solution réservée à l’animateur : SABLIER
+Lettres à annoncer au départ : Aucune.
+Indice sur demande 1 : Lettre S en position 1.
+Indice sur demande 2 : Lettre L en position 4.
+Indice sur demande 3 : Lettre R en position 7.
+Indice supplémentaire : Pour le faire repartir, on le retourne.
+
+ÉNIGME 07
+Niveau : Intermédiaire
+Définition : Instrument composé de deux petites lunettes optiques, que l’on place devant les yeux pour observer au loin.
+Nombre de lettres : 8
+Solution réservée à l’animateur : JUMELLES
+Lettres à annoncer au départ : Aucune.
+Indice sur demande 1 : Lettre J en position 1.
+Indice sur demande 2 : Lettre E en position 4.
+Indice sur demande 3 : Lettre S en position 8.
+Indice supplémentaire : Elles servent notamment à observer les oiseaux à distance.
+
+ÉNIGME 08
+Niveau : Intermédiaire
+Définition : Instrument utilisé pour mesurer la température d’un corps, de l’air ou d’un liquide.
+Nombre de lettres : 11
+Solution réservée à l’animateur : THERMOMÈTRE
+Lettres à annoncer au départ : Lettre T en position 1.
+Indice sur demande 1 : Lettre M en position 5.
+Indice sur demande 2 : Lettre E en position 11.
+Indice supplémentaire : Il peut servir à vérifier si l’on a de la fièvre.
+
+ÉNIGME 09
+Niveau : Intermédiaire
+Définition : Établissement où l’on peut consulter des livres et souvent les emprunter pour les lire chez soi.
+Nombre de lettres : 12
+Solution réservée à l’animateur : BIBLIOTHÈQUE
+Lettres à annoncer au départ : Lettre B en position 1, Lettre I en position 5.
+Indice sur demande 1 : Lettre E en position 12.
+Indice supplémentaire : On y trouve des rayonnages, un catalogue et un service de prêt.
+
+ÉNIGME 10
+Niveau : Intermédiaire
+Définition : Chute d’eau naturelle qui descend d’un niveau à un autre dans le cours d’une rivière ou d’un torrent.
+Nombre de lettres : 7
+Solution réservée à l’animateur : CASCADE
+Lettres à annoncer au départ : Aucune.
+Indice sur demande 1 : Lettre C en position 1.
+Indice sur demande 2 : Lettre C en position 4.
+Indice sur demande 3 : Lettre E en position 7.
+Indice supplémentaire : Son eau peut tomber le long d’une paroi rocheuse.

@@ -1,0 +1,315 @@
+{
+  "titre": "Devine le mot - Série 1",
+  "regles": [
+    "Anime la partie en français, entièrement à l’oral. Vérifie que tu as accès aux dix fiches complètes et utilise uniquement cette série. Si tu ne peux pas lire la page ou que des données manquent, préviens le joueur avant de commencer. N’invente aucune énigme.",
+    "Commence par la fiche 01 et suis l’ordre des fiches. Pour chaque énigme, lis sa définition, annonce son nombre de lettres, puis lis uniquement les lettres prévues au départ avec leurs positions. Attends la réponse du joueur. Ne lis pas la solution, les autres indices ni le reste de la page à voix haute.",
+    "Conserve la même fiche jusqu’à ce que le joueur trouve le mot, dise « je passe » ou demande la solution. Ne change jamais le mot pour le faire correspondre à une réponse.",
+    "À la demande « un indice », donne la prochaine lettre de la liste des indices, avec sa position, puis attends. Quand toutes les lettres de la liste ont été données, propose l’indice supplémentaire. Si tout a déjà été donné, dis-le simplement.",
+    "À la demande « répète », relis la définition, la longueur et seulement les lettres déjà révélées. À la demande « quelles lettres », récapitule uniquement les lettres déjà révélées.",
+    "Reprends exactement le nombre de lettres et les positions inscrits sur la fiche. Les positions commencent à 1. Les indices utilisent les lettres sans accents et un caractère accentué compte pour une seule lettre.",
+    "Compare la réponse au mot enregistré. Accepte une réponse orale correcte sans exiger de l’épeler. Ignore la casse et les accents dans sa transcription. Si la reconnaissance vocale est ambiguë ou si un synonyme paraît plausible, demande une précision et rappelle les contraintes sans changer la solution.",
+    "Si la réponse est incorrecte, dis-le simplement puis attends. Ne révèle pas de lettre supplémentaire sans demande. Si la réponse est correcte, confirme et prononce le mot. Si le joueur dit « je passe » ou demande la solution, prononce le mot.",
+    "Quand une énigme est terminée, demande si le joueur souhaite continuer s’il reste des fiches. Si toutes les fiches ont été jouées ou si le joueur dit « stop », annonce la fin de la partie.",
+    "Laisse le temps de réfléchir et n’utilise aucun chronomètre. Garde en mémoire l’énigme en cours et les indices déjà donnés. Ne répète pas une énigme déjà terminée."
+  ],
+  "enigmes": [
+    {
+      "id": "01",
+      "mot": "BOUSSOLE",
+      "definition": "Instrument dont l’aiguille aimantée indique le nord et permet de s’orienter.",
+      "niveau": "Facile",
+      "positions": [
+        1,
+        4,
+        8
+      ],
+      "indice": "On l’emporte pour trouver son chemin en randonnée.",
+      "lettres": "BOUSSOLE",
+      "longueur": 8,
+      "lettresInitiales": [],
+      "indices": [
+        {
+          "position": 1,
+          "lettre": "B"
+        },
+        {
+          "position": 4,
+          "lettre": "S"
+        },
+        {
+          "position": 8,
+          "lettre": "E"
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "mot": "PARAPLUIE",
+      "definition": "Objet que l’on déploie au-dessus de sa tête pour se protéger de la pluie.",
+      "niveau": "Facile",
+      "positions": [
+        1,
+        5,
+        9
+      ],
+      "lettresAuDepart": 1,
+      "indice": "Il possède un manche et une toile tendue sur des baleines.",
+      "lettres": "PARAPLUIE",
+      "longueur": 9,
+      "lettresInitiales": [
+        {
+          "position": 1,
+          "lettre": "P"
+        }
+      ],
+      "indices": [
+        {
+          "position": 5,
+          "lettre": "P"
+        },
+        {
+          "position": 9,
+          "lettre": "E"
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "mot": "VOLCAN",
+      "definition": "Édifice naturel par lequel de la lave, des gaz et parfois des cendres sortent de la Terre.",
+      "niveau": "Facile",
+      "positions": [
+        1,
+        3,
+        6
+      ],
+      "indice": "Le Vésuve et l’Etna en sont des exemples.",
+      "lettres": "VOLCAN",
+      "longueur": 6,
+      "lettresInitiales": [],
+      "indices": [
+        {
+          "position": 1,
+          "lettre": "V"
+        },
+        {
+          "position": 3,
+          "lettre": "L"
+        },
+        {
+          "position": 6,
+          "lettre": "N"
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "mot": "HÉRISSON",
+      "definition": "Petit mammifère au dos couvert de piquants, qui se roule en boule pour se défendre.",
+      "niveau": "Facile",
+      "positions": [
+        1,
+        4,
+        8
+      ],
+      "indice": "Il peut visiter les jardins à la tombée de la nuit.",
+      "lettres": "HERISSON",
+      "longueur": 8,
+      "lettresInitiales": [],
+      "indices": [
+        {
+          "position": 1,
+          "lettre": "H"
+        },
+        {
+          "position": 4,
+          "lettre": "I"
+        },
+        {
+          "position": 8,
+          "lettre": "N"
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "mot": "ANCRE",
+      "definition": "Lourde pièce de métal reliée à un bateau, que l’on laisse descendre au fond de l’eau pour le maintenir en place.",
+      "niveau": "Facile",
+      "positions": [
+        1,
+        3,
+        5
+      ],
+      "lettresAuDepart": 2,
+      "indice": "Avant de repartir, un bateau peut la lever.",
+      "lettres": "ANCRE",
+      "longueur": 5,
+      "lettresInitiales": [
+        {
+          "position": 1,
+          "lettre": "A"
+        },
+        {
+          "position": 3,
+          "lettre": "C"
+        }
+      ],
+      "indices": [
+        {
+          "position": 5,
+          "lettre": "E"
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "mot": "SABLIER",
+      "definition": "Instrument qui mesure une durée grâce à du sable s’écoulant entre deux récipients de verre superposés.",
+      "niveau": "Intermédiaire",
+      "positions": [
+        1,
+        4,
+        7
+      ],
+      "indice": "Pour le faire repartir, on le retourne.",
+      "lettres": "SABLIER",
+      "longueur": 7,
+      "lettresInitiales": [],
+      "indices": [
+        {
+          "position": 1,
+          "lettre": "S"
+        },
+        {
+          "position": 4,
+          "lettre": "L"
+        },
+        {
+          "position": 7,
+          "lettre": "R"
+        }
+      ]
+    },
+    {
+      "id": "07",
+      "mot": "JUMELLES",
+      "definition": "Instrument composé de deux petites lunettes optiques, que l’on place devant les yeux pour observer au loin.",
+      "niveau": "Intermédiaire",
+      "positions": [
+        1,
+        4,
+        8
+      ],
+      "indice": "Elles servent notamment à observer les oiseaux à distance.",
+      "lettres": "JUMELLES",
+      "longueur": 8,
+      "lettresInitiales": [],
+      "indices": [
+        {
+          "position": 1,
+          "lettre": "J"
+        },
+        {
+          "position": 4,
+          "lettre": "E"
+        },
+        {
+          "position": 8,
+          "lettre": "S"
+        }
+      ]
+    },
+    {
+      "id": "08",
+      "mot": "THERMOMÈTRE",
+      "definition": "Instrument utilisé pour mesurer la température d’un corps, de l’air ou d’un liquide.",
+      "niveau": "Intermédiaire",
+      "positions": [
+        1,
+        5,
+        11
+      ],
+      "lettresAuDepart": 1,
+      "indice": "Il peut servir à vérifier si l’on a de la fièvre.",
+      "lettres": "THERMOMETRE",
+      "longueur": 11,
+      "lettresInitiales": [
+        {
+          "position": 1,
+          "lettre": "T"
+        }
+      ],
+      "indices": [
+        {
+          "position": 5,
+          "lettre": "M"
+        },
+        {
+          "position": 11,
+          "lettre": "E"
+        }
+      ]
+    },
+    {
+      "id": "09",
+      "mot": "BIBLIOTHÈQUE",
+      "definition": "Établissement où l’on peut consulter des livres et souvent les emprunter pour les lire chez soi.",
+      "niveau": "Intermédiaire",
+      "positions": [
+        1,
+        5,
+        12
+      ],
+      "lettresAuDepart": 2,
+      "indice": "On y trouve des rayonnages, un catalogue et un service de prêt.",
+      "lettres": "BIBLIOTHEQUE",
+      "longueur": 12,
+      "lettresInitiales": [
+        {
+          "position": 1,
+          "lettre": "B"
+        },
+        {
+          "position": 5,
+          "lettre": "I"
+        }
+      ],
+      "indices": [
+        {
+          "position": 12,
+          "lettre": "E"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "mot": "CASCADE",
+      "definition": "Chute d’eau naturelle qui descend d’un niveau à un autre dans le cours d’une rivière ou d’un torrent.",
+      "niveau": "Intermédiaire",
+      "positions": [
+        1,
+        4,
+        7
+      ],
+      "indice": "Son eau peut tomber le long d’une paroi rocheuse.",
+      "lettres": "CASCADE",
+      "longueur": 7,
+      "lettresInitiales": [],
+      "indices": [
+        {
+          "position": 1,
+          "lettre": "C"
+        },
+        {
+          "position": 4,
+          "lettre": "C"
+        },
+        {
+          "position": 7,
+          "lettre": "E"
+        }
+      ]
+    }
+  ]
+}

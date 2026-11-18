@@ -1,0 +1,11 @@
+{
+  "name": "devine-le-mot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Des énigmes vérifiées pour jouer à l’oral avec ChatGPT.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "dev": "node scripts/serve.mjs"
+  }
+}
